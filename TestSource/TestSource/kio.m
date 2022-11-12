@@ -8,5 +8,7 @@
 #import "kio.h"
 
 @implementation kio
-
+-(void)test{
+    NSLog(@"-----1");
+}
 @end
