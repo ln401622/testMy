@@ -79,6 +79,8 @@
     NSLog(@"59");
     NSLog(@"master");
     NSLog(@"0.0.1");
+    NSLog(@"0.0.2");
+    NSLog(@"0.0.2");
 
 
     
