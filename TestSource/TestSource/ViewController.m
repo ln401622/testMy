@@ -79,7 +79,7 @@
     NSLog(@"59");
     NSLog(@"0.0.2");
     NSLog(@"0.0.2");
-    NSLog(@"gitfork");
+    NSLog(@"gitfork修改0.0.2");
 
     
 
