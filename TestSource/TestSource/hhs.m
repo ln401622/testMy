@@ -9,6 +9,9 @@
 
 @implementation hhs
 -(void)test{
+    NSLog(@"-----1");
+}
+-(void)test{
     NSLog(@"-----2");
 }
 @end
