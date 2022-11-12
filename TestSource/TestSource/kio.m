@@ -11,7 +11,7 @@
 -(void)test{
     NSLog(@"-----1");
 }
--(void)test{
+-(void)test1{
     NSLog(@"-----2");
 }
 @end
