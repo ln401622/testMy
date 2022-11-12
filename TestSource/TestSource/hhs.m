@@ -8,5 +8,7 @@
 #import "hhs.h"
 
 @implementation hhs
-
+-(void)test{
+    NSLog(@"-----2");
+}
 @end
