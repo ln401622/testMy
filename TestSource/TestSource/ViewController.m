@@ -77,9 +77,15 @@
     NSLog(@"57");
     NSLog(@"58");
     NSLog(@"59");
+
     NSLog(@"0.0.2");
     NSLog(@"0.0.2");
     NSLog(@"0.0.3");
+
+    NSLog(@"0.0.1");
+    NSLog(@"gitfork修改0.0.1");
+    NSLog(@"0.0.1回到主干");
+
 
     
 
