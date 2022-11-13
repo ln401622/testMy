@@ -79,11 +79,16 @@
     NSLog(@"59");
     NSLog(@"master");
     NSLog(@"0.0.1");
+
     NSLog(@"0.0.2");
     NSLog(@"0.0.2");
     NSLog(@"gitfork中修改master");
     NSLog(@"gitfork修改0.0.2");
     NSLog(@"全部在主干");
+
+
+    NSLog(@"gitfork修改0.0.1");
+    NSLog(@"0.0.1回到主干");
 
 
     
