@@ -83,6 +83,7 @@
     NSLog(@"0.0.2");
     NSLog(@"gitfork中修改master");
     NSLog(@"gitfork修改0.0.2");
+    NSLog(@"全部在主干");
 
 
     
